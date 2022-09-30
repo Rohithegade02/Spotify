@@ -95,7 +95,7 @@ function Player() {
             className="h-12 w-12 transform cursor-pointer transition duration-100 ease-out hover:scale-110"
           />
         )}
-        <FastForwardIcon className="h-5 w-5 transform cursor-pointer transition duration-100 ease-out hover:scale-125" />
+        <FastForwardIcon className="title='nExt' h-5 w-5 transform cursor-pointer transition duration-100 ease-out hover:scale-125" />
         <ReplyIcon className="h-5 w-5 transform cursor-pointer transition duration-100 ease-out hover:scale-125" />
       </div>
       <div className="flex items-center justify-end space-x-3 pr-5 md:space-x-4">
